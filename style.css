@@ -1,0 +1,32 @@
+body {
+    background-image: url("old-script-writing-on-seamless-old-paper-texture-1072.jpg")
+    
+}
+h1 {
+    background-color: aliceblue;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.cruise {
+    display: flex;
+    align-items: top;
+    background-color: rgba(245, 245, 220, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+}
+.cruise img {
+    width: 170pt;
+    margin-right: 20px;
+}
+p {
+    margin: 0;
+    flex-grow: 1;
+}
+h3 {
+    color: rgb(0, 0, 0);
+}
+h2 {
+    text-align: center;
+    background-color: rgba(255, 211, 12, 0.7);;
+    border-radius: 10px;
+}
